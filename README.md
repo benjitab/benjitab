@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Benjamin Tabet, Business Data Analyst/Scientist
+- 👋 Hi, I’m Benjamin Tabet, Business Data Analyst/Scientist with Bank/ Finance/ Insurance specialities
 - 👀 I’m interested in IA technology and open to oppotunities
 - 💞️ I’m looking to collaborate on IA project
